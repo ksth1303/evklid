@@ -413,7 +413,7 @@ p {
   opacity: 0;
   visibility: hidden;
   transition: transform .3s ease-in-out, opacity .3s ease-in-out, visibility .3s ease-in-out;
-  }
+}
 
 .nav__form-input {
   border: 0;
